@@ -19,7 +19,7 @@ Following are the steps to install this developer starter kit on your local.
 - First clone it from the github repository 
 
 ```sh
-git clone https://github.com/imparvez/developer-starter-kit.git
+$ git clone https://github.com/imparvez/developer-starter-kit.git
 ```
 
 - Then download all the node packages with npm install command
@@ -29,7 +29,7 @@ $ npm install
 
 - There is a default Jquery dependency which can be download from bower using
 ```sh
-bower install
+$ bower install
 ```
 
 
